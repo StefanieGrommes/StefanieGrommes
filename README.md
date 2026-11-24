@@ -1,10 +1,7 @@
 # Hi, I am Steffi Grommes! :v:
 
-## 🎨 Creativity meets Code 💻
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+%E2%98%95;Creativity+is+my+superpower+%F0%9F%8E%A8;Learning%2C+building+%26+breaking+things+%F0%9F%9A%80;Code+it+until+you+make+it!+%F0%9F%98%8E" alt="Typing SVG" /> </p>
-
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation"> </p>
+<img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgyb3IzcjhoM2x2YXdrcjJod2R5bW8yZ2N4dzVwNjIxMzdxYmd4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FuK6pfJFOfIKaMcNtN/giphy.gif">
 
 ## ✨ About Me
 
